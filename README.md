@@ -3,6 +3,10 @@
 | Model            | Window Size | Training Loss | Training Time | Syntactic Accuracy | Semantic Accuracy |
 |------------------|-------------|---------------|---------------|---------------------|--------------------|
 | Skipgram         |             |               |               |                     |                    |
+| Skipgram         |             |               |               |                     |                    |
+| Skipgram         |             |               |               |                     |                    |
+| Skipgram         |             |               |               |                     |                    |
+| Skipgram         |             |               |               |                     |                    |
 | Skipgram (NEG)   |             |               |               |                     |                    |
 | Glove            |             |               |               |                     |                    |
 | Glove (Gensim)   | -           | -             |               |                     |                    |
