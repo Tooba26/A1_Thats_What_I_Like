@@ -1,5 +1,9 @@
 # A1_Thats_What_I_Like
-## Task 3:
+## Task 2:
+1. The Word2Vector and Glove models were trained with different window sizes to analyze the effect of window size on training. It can be seen from all the trainings with different window sizes that as the window size is increased the training loss is decreased. 
+Comparing the training time the Word2Vector took around 15 minutes to train with all window sizes where as Glove was effecient which took only 7 minutes to train. 
+Furhtermore, the models were trained with 500 epochs only.
+
 | Model            | Window Size | Training Loss | Training Time | Syntactic Accuracy | Semantic Accuracy |
 |------------------|-------------|---------------|---------------|---------------------|--------------------|
 | Skipgram         |   1         | 10.260798     |  0m 0s        | 0.00%               | 0.00%              |
