@@ -32,5 +32,9 @@ Furhtermore, the models were trained with 500 epochs only.
 |-------|----------|-----|-------|----------------|--------|
 | MSE   | 29.75    |29.03|29.19  | 23.8484        | 3.94   |
 
+## Task 4
+The website is created with Flask(Backend) and Reactjs & Tailwindcss(Frontend)
+Demonstration of website. https://drive.google.com/file/d/1SO0Hw6mok6LXqrE4FqN39DChYS7ABPmj/view?usp=sharing
+
 
 
