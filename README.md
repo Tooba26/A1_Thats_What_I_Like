@@ -27,5 +27,10 @@ Furhtermore, the models were trained with 500 epochs only.
 | Glove (Gensim)   | -           | -             |  0m 0s        | 0.00%               | 0.00%              |
 
 
+## Task 3:
+| Model | Skipgram | NEG | GloVe | GloVe (gensim) | Y_true |
+|-------|----------|-----|-------|----------------|--------|
+| MSE   | 29.75    |29.03|29.19  | 23.8484        | 3.94   |
+
 
 
